@@ -3,12 +3,12 @@ def create_an_empty_array
 end
 
 def create_an_array
-  nba_teams = ["knicks", "nets", "celtics", "wizards"]
+  nba_teams = ["Knicks", "Nets", "Celtics", "Wizards"]
 end
 
 def add_element_to_end_of_array(array, element)
-  nba_teams = ["knicks", "nets", "celtics", "wizards"]
-  
+  nba_teams = ["Knicks", "Nets", "Celtics", "Wizards"]
+  nba_teams << "Raptors"
 end
 
 def add_element_to_start_of_array(array, element)
