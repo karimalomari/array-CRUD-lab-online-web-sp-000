@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  numbers = [first, second, third, fourth]
+  numbers = [knicks, nets, celtics, wizards]
 end
 
 def add_element_to_end_of_array(array, element)
