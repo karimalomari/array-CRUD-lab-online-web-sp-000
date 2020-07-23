@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  nba_teams = ["Knicks", "Nets", "Celtics", "Wizards"]
+  array = ["wow", "I", "am", "really", "learning"]
   nba_teams << "arrays"
 end
 
